@@ -1,2 +1,1 @@
-# frags.bash
-frags.bash
+Various script fragments. 
